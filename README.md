@@ -16,5 +16,7 @@ This section comprises of projects I have been working on to showcase my Tableau
 
 
 3.Dow Jones Industrial Average performance from January 1988 to November 2020
-![]()
+
 https://public.tableau.com/profile/adeyemi.adejuwon#!/vizhome/DowJonesIndustrialAverage_Tableau/DOWJONESINDUSTRIALINDEX1988-2020
+
+![](https://github.com/dreamtx01/Tableau-Public-Visualizations/blob/main/Image/dowjones.png)

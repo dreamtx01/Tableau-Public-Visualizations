@@ -10,7 +10,9 @@ This section comprises of projects I have been working on to showcase my Tableau
 https://public.tableau.com/profile/adeyemi.adejuwon#!/vizhome/Top10NCAABasketball2018/Dashboard2
 
 2. Price of Crude Oil from 2008 to 2020
-![](https://public.tableau.com/profile/adeyemi.adejuwon#!/vizhome/Oil_Price/Sheet1)
+![](https://github.com/dreamtx01/Tableau-Public-Visualizations/blob/main/Image/Crudeoil.png)
+(https://public.tableau.com/profile/adeyemi.adejuwon#!/vizhome/Oil_Price/Sheet1)
 
 3.Dow Jones Industrial Average performance from January 1988 to November 2020
-![](https://public.tableau.com/profile/adeyemi.adejuwon#!/vizhome/DowJonesIndustrialAverage_Tableau/DOWJONESINDUSTRIALINDEX1988-2020)
+![]()
+https://public.tableau.com/profile/adeyemi.adejuwon#!/vizhome/DowJonesIndustrialAverage_Tableau/DOWJONESINDUSTRIALINDEX1988-2020
